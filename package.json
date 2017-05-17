@@ -6,7 +6,7 @@
   "main": "./index.js",
   "peerDependencies": {
     "babel-eslint": "^7.0.0",
-    "eslint-config-cnn-starter-base": "git+ssh://git@github.com:cnnlabs/eslint-config-cnn-starter-base",
+    "eslint-config-cnn-starter-base": "https://github.com/cnnlabs/eslint-config-cnn-starter-base.git",
     "eslint": "^3",
     "eslint-plugin-import": "^2.0.1",
     "eslint-plugin-jsx-a11y": "^2.2.3",
